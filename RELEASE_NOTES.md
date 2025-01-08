@@ -1,5 +1,24 @@
 # @mdn/browser-compat-data release notes
 
+## [v5.6.29](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.29)
+
+January 8, 2025
+
+### Additions
+
+- `api.CSS.supports_static.optional_parens` ([#25561](https://github.com/mdn/browser-compat-data/pull/25561))
+- `api.RTCStatsReport.type_outbound-rtp.rid` ([#25606](https://github.com/mdn/browser-compat-data/pull/25606))
+- `browsers.firefox_android.releases.137` ([#25589](https://github.com/mdn/browser-compat-data/pull/25589))
+- `browsers.firefox.releases.137` ([#25589](https://github.com/mdn/browser-compat-data/pull/25589))
+- `browsers.nodejs.releases.18.9.0` ([#25516](https://github.com/mdn/browser-compat-data/pull/25516))
+
+### Statistics
+
+- 7 contributors have changed 75 files with 509 additions and 217 deletions in 10 commits ([`v5.6.28...v5.6.29`](https://github.com/mdn/browser-compat-data/compare/v5.6.28...v5.6.29))
+- 16,764 total features
+- 1,123 total contributors
+- 5,056 total stargazers
+
 ## [v5.6.28](https://github.com/mdn/browser-compat-data/releases/tag/v5.6.28)
 
 January 7, 2025
