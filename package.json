@@ -8,16 +8,16 @@
     ".": {
       "require": {
         "types": "./build/require.d.ts",
-        "default": "Error"
+        "default": "./build/data.json"
       },
       "import": {
         "types": "./build/import.d.mts",
-        "default": "Error"
+        "default": "./build/data.json"
       }
     },
     "./forLegacyNode": {
       "types": "./build/import.d.mts",
-      "default": "Error"
+      "default": "./build/legacynode.mjs"
     }
   },
   "types": "./build/require.d.ts",
